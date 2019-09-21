@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c7d643f-0501-4fbb-95de-f11054eae22f" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>failedTest</find>
+      <find>test_addSelectBuddha_url</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1R3IKwkWOnQnGP1FBai1gaA7eCB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_all">
+    <configuration name="run_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WLJM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Program Files\python3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_bless.Test_Kuaidi" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="WLJM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/WLJM_QF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_bless.Test_Kuaidi&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in 1test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="WLJM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/WLJM_login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/WLJM_login/1test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_bless.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="WLJM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/WLJM_QF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/WLJM_QF/test_bless.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_gongpin.oy.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="WLJM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/WLJM_QF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/WLJM_QF/test_gongpin.oy.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_all" />
+      <item itemvalue="Python tests.Unittests for test_bless.Test_Kuaidi" />
+      <item itemvalue="Python tests.Unittests in 1test_login.py" />
+      <item itemvalue="Python tests.Unittests in test_bless.py" />
+      <item itemvalue="Python tests.Unittests in test_gongpin.oy.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_all" />
+        <item itemvalue="Python tests.Unittests in test_gongpin.oy.py" />
+        <item itemvalue="Python tests.Unittests for test_bless.Test_Kuaidi" />
+        <item itemvalue="Python tests.Unittests in test_bless.py" />
+        <item itemvalue="Python tests.Unittests in 1test_login.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c7d643f-0501-4fbb-95de-f11054eae22f" name="Default" comment="" />
+      <created>1568631935293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568631935293</updated>
+      <workItem from="1568889293845" duration="155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_bless_Test_Kuaidi - 2019.09.17 at 20h 00m 23s.xml">
+      <configuration name="Unittests for test_bless.Test_Kuaidi" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_bless_Test_Kuaidi - 2019.09.17 at 20h 02m 28s.xml">
+      <configuration name="Unittests for test_bless.Test_Kuaidi" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_bless_Test_Kuaidi - 2019.09.17 at 20h 02m 38s.xml">
+      <configuration name="Unittests for test_bless.Test_Kuaidi" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_bless_Test_Kuaidi - 2019.09.17 at 20h 05m 21s.xml">
+      <configuration name="Unittests for test_bless.Test_Kuaidi" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_bless_Test_Kuaidi - 2019.09.17 at 20h 05m 30s.xml">
+      <configuration name="Unittests for test_bless.Test_Kuaidi" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_gongpin_oy_py - 2019.09.18 at 08h 36m 26s.xml">
+      <configuration name="Unittests in test_gongpin.oy.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_gongpin_oy_py - 2019.09.18 at 19h 43m 41s.xml">
+      <configuration name="Unittests in test_gongpin.oy.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_gongpin_oy_py - 2019.09.18 at 19h 44m 41s.xml">
+      <configuration name="Unittests in test_gongpin.oy.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_gongpin_oy_py - 2019.09.18 at 19h 45m 11s.xml">
+      <configuration name="Unittests in test_gongpin.oy.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_gongpin_oy_py - 2019.09.18 at 19h 45m 13s.xml">
+      <configuration name="Unittests in test_gongpin.oy.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WLJM_2_$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1568889315800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
