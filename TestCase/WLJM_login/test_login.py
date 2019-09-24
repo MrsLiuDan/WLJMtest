@@ -4,7 +4,7 @@ import requests
 from conf.user_conf import *  #在conf.user_conf中导入所有接口的入参信息
 #定义一个全局变量
 # session = requests.Session()
-class Test_Kuaidi(unittest.TestCase):
+class Login(unittest.TestCase):
     def setUp(self):
         pass
         # 登录的入参
