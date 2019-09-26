@@ -8,7 +8,7 @@ import requests
 from conf.user_conf import *  #在conf.user_conf中导入所有接口的入参信息
 #定义一个全局变量
 # session = requests.Session()
-class Bless(unittest.TestCase):
+class Test_Bless(unittest.TestCase):
     def setUp(self):
         pass
 
@@ -38,7 +38,7 @@ class Bless(unittest.TestCase):
         #入参信息
         addSelectBuddha_data = {
             "userId":10000,
-            "buddhaId":132,
+            "buddhaId":342,
         }
         #发送post请求测试添加恭请佛像接口
         rep = requests.post(url=addSelectBuddha_host+addSelectBuddha_url,data=addSelectBuddha_data)
@@ -56,8 +56,8 @@ class Bless(unittest.TestCase):
         #入参信息
         hasSelectBuddhaListPage_data = {
             "userId":10000,
-            "pageSize":212,
-            "pageIndex":211,
+            "pageSize":442,
+            "pageIndex":441,
         }
         #发送post请求测试以恭请佛像列表-分页接口
         rep = requests.post(url=hasSelectBuddhaListPage_host+hasSelectBuddhaListPage_url,data=hasSelectBuddhaListPage_data)
@@ -71,24 +71,6 @@ class Bless(unittest.TestCase):
         self.assertEqual(self.hasSelectBuddhaListPageCode,0)
 
         #4.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     def tearDown(self):
         pass

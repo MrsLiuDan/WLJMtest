@@ -27,7 +27,7 @@ addSelectBuddha_url = "/api/temple/bless/addSelectBuddha"
 hasSelectBuddhaListPage_host = "http://192.168.1.40:8002"
 hasSelectBuddhaListPage_url = "/api/temple/bless/hasSelectBuddhaListPage"
 
-
+#5.
 
 
 

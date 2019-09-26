@@ -1,17 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c7d643f-0501-4fbb-95de-f11054eae22f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/WLJM_QF/test_bless.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/WLJM_QF/test_bless.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCase/WLJM_login/1test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCase/WLJM_login/test_login.py" afterDir="false" />
-    </list>
+    <list default="true" readonly="true" id="9c7d643f-0501-4fbb-95de-f11054eae22f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_addbuddhism.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCase/WLJM_buddhism/test_addbuddhism.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="606">
+              <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+              <folding>
+                <element signature="e#123#147#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_buddhismDetail.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestCase/WLJM_buddhism/test_buddhismDetail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+              <folding>
+                <element signature="e#125#149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_comment.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCase/WLJM_buddhism/test_comment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user_conf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/user_conf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="29" column="3" lean-forward="false" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buddhism_imag.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/buddhism_imag.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="multiple_files.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/multiple_files.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_bless.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCase/WLJM_QF/test_bless.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_addSelectBuddha.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestCase/WLJM_QF/test_addSelectBuddha.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comm_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/comm_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buddhismUrl.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/buddhismUrl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,15 +126,127 @@
       <find>test_addSelectBuddha_url</find>
     </findStrings>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestCase/WLJM_buddhism/test_addbuddhism.py" />
+        <option value="$PROJECT_DIR$/TestCase/WLJM_QF/test_bless.py" />
+        <option value="$PROJECT_DIR$/common/comm_method.py" />
+        <option value="$PROJECT_DIR$/TestCase/WLJM_QF/test_addSelectBuddha.py" />
+        <option value="$PROJECT_DIR$/conf/user_conf.py" />
+        <option value="$PROJECT_DIR$/TestCase/WLJM_buddhism/test_buddhismDetail.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="401" />
+    <option name="y" value="52" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectId" id="1R3IKwkWOnQnGP1FBai1gaA7eCB" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WLJMAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WLJMAPI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WLJMAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WLJMAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WLJMAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WLJMAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WLJMAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WLJMAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="files" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WLJMAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WLJMAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WLJMAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WLJMAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WLJMAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WLJMAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="run" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WLJMAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WLJMAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WLJMAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WLJMAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
+              <item name="WLJM_buddhism" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WLJMAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WLJMAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
+              <item name="WLJM_JB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WLJMAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WLJMAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
+              <item name="WLJM_login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WLJMAPI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WLJMAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
+              <item name="WLJM_QF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\物连家美\测试\WLJMAPI\task\run" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\物连家美\测试\WLJMAPI\files" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,7 +260,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run_all">
+<<<<<<< .mine
+<<<<<<< .mine
+  <component name="RunManager" selected="Python.run_all (1)">
+    <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="WLJM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task/run" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/run/aa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+||||||| .r2002
+  <component name="RunManager" selected="Python tests.Unittests in test_addbuddhism.py">
     <configuration name="run_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WLJM" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,9 +294,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="D:\Program Files\python3\python.exe" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
@@ -71,85 +309,205 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_bless.Test_Kuaidi" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="WLJM" />
+=======
+  <component name="RunManager" selected="Python tests.Unittests in test_comment.py">
+||||||| .r2003
+  <component name="RunManager" selected="Python tests.Unittests in test_comment.py">
+=======
+  <component name="RunManager" selected="Python.comm_method">
+>>>>>>> .r2012
+>>>>>>> .r2003
+    <configuration name="run_all (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+<<<<<<< .mine
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+||||||| .r2002
+=======
+      <envs />
+>>>>>>> .r2003
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/WLJM_QF" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task/run" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WLJM" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_bless.Test_Kuaidi&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task/run/run_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
     </configuration>
+<<<<<<< .mine
+    <configuration name="run_all" type="PythonConfigurationType" factoryName="Python" temporary="true">
+||||||| .r2003
+    <configuration name="Unittests in test_buddhismDetail.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+=======
     <configuration name="Unittests in test_bless.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="WLJM" />
+>>>>>>> .r2012
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+<<<<<<< .mine
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+||||||| .r2002
+=======
+      <envs />
+>>>>>>> .r2003
       <option name="SDK_HOME" value="" />
+<<<<<<< .mine
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+||||||| .r2003
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/WLJM_buddhism" />
+=======
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/WLJM_QF" />
+>>>>>>> .r2012
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <module name="WLJM" />
+<<<<<<< .mine
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\物连家美\测试\WLJMAPI\task\run\run_all.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+||||||| .r2003
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/WLJM_buddhism/test_buddhismDetail.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+=======
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/WLJM_QF/test_bless.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
+>>>>>>> .r2012
     </configuration>
-    <configuration name="Unittests in test_gongpin.oy.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="WLJM" />
+    <configuration name="Unittests in test_addbuddhism.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/WLJM_buddhism" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WLJM" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/WLJM_buddhism/test_addbuddhism.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+<<<<<<< .mine
+    <configuration name="Unittests in test_report.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+||||||| .r2003
+    <configuration name="Unittests in test_getIndexBuddhismList.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="Unittests in test_gongpin.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+>>>>>>> .r2012
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/WLJM_QF" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/WLJM_QF/test_gongpin.oy.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests in test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="WLJM" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+<<<<<<< .mine
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/WLJM_buddhism/test_report.py&quot;" />
+||||||| .r2003
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/WLJM_buddhism/test_getIndexBuddhismList.py&quot;" />
+=======
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/WLJM_QF/test_gongpin.py&quot;" />
+>>>>>>> .r2012
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+<<<<<<< .mine
+<<<<<<< .mine
+    <list>
+      <item itemvalue="Python.run_all" />
+      <item itemvalue="Python tests.Unittests in test_addbuddhism.py" />
+      <item itemvalue="Python tests.Unittests in test_report.py" />
+      <item itemvalue="Python.run_all (1)" />
+      <item itemvalue="Python.aa" />
+||||||| .r2002
+    <list>
+      <item itemvalue="Python.run_all" />
+      <item itemvalue="Python tests.Unittests in test_getIndexBuddhismList.py" />
+      <item itemvalue="Python tests.Unittests in test_comment.py" />
+      <item itemvalue="Python tests.Unittests in test_addbuddhism.py" />
+      <item itemvalue="Python tests.Unittests in test_buddhismDetail.py" />
+=======
+    <configuration name="test_addbuddhism" type="PythonConfigurationType" factoryName="Python" temporary="true">
+||||||| .r2003
+    <configuration name="test_addbuddhism" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="comm_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> .r2012
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCase/WLJM_login" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCase/WLJM_login/test_login.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
+      <module name="WLJM" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/comm_method.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <list>
-      <item itemvalue="Python.run_all" />
-      <item itemvalue="Python tests.Unittests for test_bless.Test_Kuaidi" />
-      <item itemvalue="Python tests.Unittests in test_login.py" />
-      <item itemvalue="Python tests.Unittests in test_bless.py" />
-      <item itemvalue="Python tests.Unittests in test_gongpin.oy.py" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_addbuddhism.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_comment.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_bless.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_gongpin.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.comm_method" />
+>>>>>>> .r2003
     </list>
     <recent_temporary>
+<<<<<<< .mine
       <list>
+        <item itemvalue="Python.run_all (1)" />
+        <item itemvalue="Python.aa" />
         <item itemvalue="Python.run_all" />
-        <item itemvalue="Python tests.Unittests in test_gongpin.oy.py" />
-        <item itemvalue="Python tests.Unittests for test_bless.Test_Kuaidi" />
-        <item itemvalue="Python tests.Unittests in test_bless.py" />
-        <item itemvalue="Python tests.Unittests in test_login.py" />
+        <item itemvalue="Python tests.Unittests in test_report.py" />
+        <item itemvalue="Python tests.Unittests in test_addbuddhism.py" />
+||||||| .r2002
+      <list>
+        <item itemvalue="Python tests.Unittests in test_addbuddhism.py" />
+        <item itemvalue="Python.run_all" />
+        <item itemvalue="Python tests.Unittests in test_buddhismDetail.py" />
+        <item itemvalue="Python tests.Unittests in test_comment.py" />
+        <item itemvalue="Python tests.Unittests in test_getIndexBuddhismList.py" />
+=======
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.comm_method" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_gongpin.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_bless.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_comment.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_addbuddhism.py" />
+>>>>>>> .r2003
       </list>
     </recent_temporary>
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\chen\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -159,58 +517,304 @@
       <option name="presentableId" value="Default" />
       <updated>1568631935293</updated>
       <workItem from="1568889293845" duration="155000" />
-      <workItem from="1569310190918" duration="174000" />
+      <workItem from="1569290794358" duration="2419000" />
+      <workItem from="1569310145391" duration="7866000" />
+      <workItem from="1569377445707" duration="16344000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_bless_Test_Kuaidi - 2019.09.17 at 20h 00m 23s.xml">
-      <configuration name="Unittests for test_bless.Test_Kuaidi" configurationId="tests" />
+    <history-entry file="Unittests_in_test_addbuddhism_py - 2019.09.25 at 15h 04m 08s.xml">
+      <configuration name="Unittests in test_addbuddhism.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_bless_Test_Kuaidi - 2019.09.17 at 20h 02m 28s.xml">
-      <configuration name="Unittests for test_bless.Test_Kuaidi" configurationId="tests" />
+    <history-entry file="Unittests_in_test_addbuddhism_py - 2019.09.25 at 15h 04m 24s.xml">
+      <configuration name="Unittests in test_addbuddhism.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_bless_Test_Kuaidi - 2019.09.17 at 20h 02m 38s.xml">
-      <configuration name="Unittests for test_bless.Test_Kuaidi" configurationId="tests" />
+    <history-entry file="Unittests_in_test_bless_py - 2019.09.25 at 15h 33m 18s.xml">
+      <configuration name="Unittests in test_bless.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_bless_Test_Kuaidi - 2019.09.17 at 20h 05m 21s.xml">
-      <configuration name="Unittests for test_bless.Test_Kuaidi" configurationId="tests" />
+    <history-entry file="Unittests_in_test_bless_py - 2019.09.25 at 15h 33m 25s.xml">
+      <configuration name="Unittests in test_bless.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_test_bless_Test_Kuaidi - 2019.09.17 at 20h 05m 30s.xml">
-      <configuration name="Unittests for test_bless.Test_Kuaidi" configurationId="tests" />
+    <history-entry file="Unittests_in_test_bless_py - 2019.09.25 at 15h 33m 38s.xml">
+      <configuration name="Unittests in test_bless.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_gongpin_oy_py - 2019.09.18 at 08h 36m 26s.xml">
-      <configuration name="Unittests in test_gongpin.oy.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_bless_py - 2019.09.25 at 15h 33m 59s.xml">
+      <configuration name="Unittests in test_bless.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_gongpin_oy_py - 2019.09.18 at 19h 43m 41s.xml">
-      <configuration name="Unittests in test_gongpin.oy.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_comment_py - 2019.09.25 at 15h 04m 55s.xml">
+      <configuration name="Unittests in test_comment.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_gongpin_oy_py - 2019.09.18 at 19h 44m 41s.xml">
-      <configuration name="Unittests in test_gongpin.oy.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_gongpin_py - 2019.09.25 at 15h 34m 09s.xml">
+      <configuration name="Unittests in test_gongpin.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_gongpin_oy_py - 2019.09.18 at 19h 45m 11s.xml">
-      <configuration name="Unittests in test_gongpin.oy.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_gongpin_py - 2019.09.25 at 15h 45m 29s.xml">
+      <configuration name="Unittests in test_gongpin.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_gongpin_oy_py - 2019.09.18 at 19h 45m 13s.xml">
-      <configuration name="Unittests in test_gongpin.oy.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_gongpin_py - 2019.09.25 at 16h 17m 36s.xml">
+      <configuration name="Unittests in test_gongpin.py" configurationId="tests" />
     </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/WLJMtest$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1569310304073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$Unittests_in_test_report_py.coverage" NAME="Unittests in test_report.py Coverage Results" MODIFIED="1569396021790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/WLJM_buddhism" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$Unittests_in_test_bless_py.coverage" NAME="Unittests in test_bless.py Coverage Results" MODIFIED="1569290979478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/WLJM_QF" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$Unittests_in_test_gongpin_oy_py.coverage" NAME="Unittests in test_gongpin.py Coverage Results" MODIFIED="1569291026641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/WLJM_QF" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1569396213621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$run_all__1_.coverage" NAME="run_all (1) Coverage Results" MODIFIED="1569399333901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/run" />
     <SUITE FILE_PATH="coverage/WLJM_2_$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1568889315800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$Unittests_in_test_buddhismDetail_py.coverage" NAME="Unittests in test_buddhismDetail.py Coverage Results" MODIFIED="1569390860226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/WLJM_buddhism" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$Unittests_for_test_getIndexBuddhismList_getIndexBuddhismList_test_getUserBuddhismList.coverage" NAME="Unittests for test_getIndexBuddhismList.getIndexBuddhismList.test_getUserBuddhismList Coverage Results" MODIFIED="1569393513427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/WLJM_buddhism" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$aa.coverage" NAME="aa Coverage Results" MODIFIED="1569399210775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/run" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1569291032437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/WLJM_login" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$Unittests_in_test_comment_py.coverage" NAME="Unittests in test_comment.py Coverage Results" MODIFIED="1569390612389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/WLJM_buddhism" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$Unittests_in_test_addbuddhism_py.coverage" NAME="Unittests in test_addbuddhism.py Coverage Results" MODIFIED="1569394521894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/WLJM_buddhism" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$Unittests_in_test_getIndexBuddhismList_py.coverage" NAME="Unittests in test_getIndexBuddhismList.py Coverage Results" MODIFIED="1569391524103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/WLJM_buddhism" />
+    <SUITE FILE_PATH="coverage/WLJMAPI$test_bless.coverage" NAME="test_bless Coverage Results" MODIFIED="1569290947849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase/WLJM_QF" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/run_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_buddhism/test_addbuddhism.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          <folding>
+            <element signature="e#123#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/user_conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_login/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_QF/test_bless.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_QF/test_gongpin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/comm_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/buddhismUrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_buddhism/test_getIndexBuddhismList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1569400178172" expanded="true" signature="1320:1328" ph="..." />
+            <marker date="1569400178172" expanded="true" signature="1320:1374" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_login/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_buddhism/test_getIndexBuddhismList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <marker date="1569400178172" expanded="true" signature="1320:1328" ph="..." />
+            <marker date="1569400178172" expanded="true" signature="1320:1374" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_QF/test_gongpin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/comm_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_QF/test_bless.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_QF/test_addSelectBuddha.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/buddhismUrl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/user_conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="29" column="3" lean-forward="false" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/buddhism_imag.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/multiple_files.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_buddhism/test_comment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_buddhism/test_addbuddhism.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding>
+            <element signature="e#123#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestCase/WLJM_buddhism/test_buddhismDetail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="e#125#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
